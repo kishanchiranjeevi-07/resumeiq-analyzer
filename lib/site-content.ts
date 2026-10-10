@@ -11,7 +11,10 @@ export const SITE_CONTENT = {
       "PDF and DOCX extraction with clear validation",
       "Privacy-minded local report history",
     ],
-    links: { repository: "", liveDemo: "", documentation: "" },
+    links: {
+      repository: "https://github.com/kishanchiranjeevi-07/resumeiq-analyzer",
+      liveDemo: "https://resumeiq-analyzer-indol.vercel.app",
+      documentation: "https://github.com/kishanchiranjeevi-07/resumeiq-analyzer#readme",
+    },
   },
 };
-
